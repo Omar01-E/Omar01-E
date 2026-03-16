@@ -47,6 +47,14 @@
 
 ---
 
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar01-E&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omar01-E&layout=compact&theme=radical)
+
+---
+
 <div align="center">
   <i>Open to internships and co-op opportunities — feel free to reach out!</i>
 </div>
